@@ -29,3 +29,4 @@ Hay que descomentar el main y crear un archivo .txt para hacer las pruebas.
 - [Biblioteca](https://conclase.net/c/librerias/stdarg/va_list) | Explicación de la biblioteca de stdarg.
 - **Uses of AI** | No se ha necesitado IA para este proyecto.
 
+---
