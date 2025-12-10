@@ -28,3 +28,5 @@ Hay que descomentar el main y crear un archivo .txt para hacer las pruebas.
 - [Gitbook 42](https://42-cursus.gitbook.io/guide/1-rank-01/get_next_line) | Apuntes explicativos y ayuda de get_next_line.
 - [Biblioteca](https://conclase.net/c/librerias/stdarg/va_list) | Explicación de la biblioteca de stdarg.
 - **Uses of AI** | No se ha necesitado IA para este proyecto.
+
+# ------------------------------------------------------------------------------------------------------------------------------------------- #
