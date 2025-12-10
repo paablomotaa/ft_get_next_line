@@ -4,13 +4,13 @@
 
 # ft_get_next_line
 
-- ### Descripción
+### Descripción
 
 Este programa lee un archivo línea por línea. Detecta el caracter '\n' de cada línea y lo imprime en consola.
 
 BONUS: En la parte bonus se podrá leer mas de un archivo línea por línea
 
-- ### Instrucciones
+### Instrucciones
 
 Para realizar la ejecución del programa, el usuario deberá ejecutar el siguiente comando:
 
@@ -24,7 +24,7 @@ BONUS:
 
 Hay que descomentar el main y crear un archivo .txt para hacer las pruebas.
 
-- ### Fuentes
+### Fuentes
 
 - [Youtube video](https://www.youtube.com/watch?v=8E9siq7apUU) | Video de Youtube explicativo para la realización del proyecto.
 - [Gitbook 42](https://42-cursus.gitbook.io/guide/1-rank-01/get_next_line) | Apuntes explicativos y ayuda de get_next_line.
